@@ -1,0 +1,26 @@
+{
+    "Gripe": [
+        "febre",
+        "tosse",
+        "dor de garganta",
+        "congest\u00c3\u00a3o nasal"
+    ],
+    "COVID-19": [
+        "febre",
+        "tosse",
+        "falta de ar",
+        "perda de olfato"
+    ],
+    "Dengue": [
+        "febre",
+        "dor de cabe\u00c3\u00a7a",
+        "dor no corpo",
+        "manchas na pele"
+    ],
+    "Resfriado": [
+        "coceira nasal",
+        "dor de garganta",
+        "febre leve",
+        "congest\u00c3\u00a3o nasal"
+    ]
+}
